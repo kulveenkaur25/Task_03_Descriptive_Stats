@@ -1,2 +1,9 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Ignore the data folder
+/data/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore notebooks checkpoints
+.ipynb_checkpoints/
