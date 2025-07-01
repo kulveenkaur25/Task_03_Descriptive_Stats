@@ -56,28 +56,13 @@ Each script outputs:
 
 ---
 
-## Output Files
-
-Each script saves a `.json` file under one of the following directories:
-
-- `output/` (pure Python)
-- `output_pandas/`  
-- `output_polars/`
-
-Each file contains:
-- Descriptive statistics
-- Unique value counts
-- Top categorical values
-- Grouped aggregations
-
----
 
 ## How to Run
 
 1. Clone the repository:
    ```
    git clone https://github.com/kulveenkaur25/Task_03_Descriptive_Stats.git
-   cd final
+   cd Task_03_Descriptive_Stats
    ```
 
 2. Place the datasets into a folder named `datasets/`:
