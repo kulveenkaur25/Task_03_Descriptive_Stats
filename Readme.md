@@ -76,7 +76,7 @@ Each file contains:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/kulveenkaur25/final.git
+   git clone https://github.com/kulveenkaur25/Task_03_Descriptive_Stats.git
    cd final
    ```
 
